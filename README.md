@@ -2,7 +2,7 @@
 
 This serves as an index to the R6 incubator IGs.
 
-Latest version is available at [https://build.fhir.org/ig/FHIR/incubators].
+Latest version is available at [https://build.fhir.org/ig/HL7/fhir-incubators].
 
 ## FHIR Foundation Project Statement
 
