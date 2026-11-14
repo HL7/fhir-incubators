@@ -1,0 +1,137 @@
+<div xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+  <!-- The spaces between the open and close "a" tag are mandatory.  (Cuz HTML renderers are dumb...) -->
+  <a name="intro"></a>
+  <h3>Introduction</h3>
+  <p>
+    This IG serves as an index to the incubators.
+  </p>
+
+  <a name="Incubators"></a>
+  <h3>Incubators</h3>
+  <table class="grid">
+   <tr>
+     <th>Incubator</th>
+     <th>PackageId</th>
+     <th>Links</th>
+   </tr>
+   <tr>
+     <td>Terminology Incubator</td>
+     <td>hl7.fhir.uv.txmodule-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/txmodule-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/txmodule-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/txmodule-incubator">GitHub</a></td>
+   </tr>
+   <tr>
+     <td>API Incubator</td>
+     <td>hl7.fhir.uv.api-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/api-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/api-incubator-ig">CI-Build</a>
+                   / <a href="https://github.com/HL7/api-incubator-ig">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Testing Incubator</td>
+     <td>hl7.fhir.uv.testing</td>
+     <td><a href="http://hl7.org/fhir/uv/testing">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/fhir-testing-ig">CI-Build</a>
+                   / <a href="https://github.com/HL7/fhir-testing-ig">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>SQL on FHIR</td>
+     <td>hl7.fhir.uv.sql-on-fhir</td>
+     <td><a href="http://hl7.org/fhir/uv/ebm-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/sql-on-fhir">CI-Build</a>
+                   / <a href="https://github.com/HL7/sql-on-fhir">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>FHIR Mapping Language</td>
+     <td>hl7.fhir.uv.mapping-language</td>
+     <td><a href="http://hl7.org/fhir/uv/mapping-language">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/mapping-language-ig">CI-Build</a>
+                   / <a href="https://github.com/HL7/mapping-language-ig">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Data Access Policies</td>
+     <td>hl7.fhir.uv.dap</td>
+     <td><a href="http://hl7.org/fhir/uv/ebm-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/data-access-policies">CI-Build</a>
+                   / <a href="https://github.com/HL7/data-access-policies">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Administrative Incubator</td>
+     <td>hl7.fhir.uv.admin-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/admin-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/admin-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/admin-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Orders/Observations Incubator</td>
+     <td>hl7.fhir.uv.oo-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/oo-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/oo-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Immunization Incubator</td>
+     <td>hl7.fhir.uv.immunization-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/immunization-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/immunization-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Patient Care Incubator</td>
+     <td>hl7.fhir.uv.pc-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/pc-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/pc-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/pc-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Financial Incubator</td>
+     <td>hl7.fhir.uv.fm-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/fm-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/fm-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/fm-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Pharmacy Incubator</td>
+     <td>hl7.fhir.uv.phx-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/phx-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/phx-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/phx-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Clinical Genomics Incubator</td>
+     <td>hl7.fhir.uv.cg-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/cg-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/cg-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/cg-incubator">GitHub</a></td>
+   </tr>
+
+   <tr>
+     <td>Evidence Based Medicine Incubator</td>
+     <td>hl7.fhir.uv.ebm-incubator</td>
+     <td><a href="http://hl7.org/fhir/uv/ebm-incubator">Publications</a> 
+                   / <a href="https://build.fhir.org/ig/HL7/ebm-incubator">CI-Build</a>
+                   / <a href="https://github.com/HL7/ebm-incubator">GitHub</a></td>
+   </tr>
+  </table>
+
+
+
+  <a name="Additional"></a>
+  <h3>Additional Resources</h3>
+
+  {% json input/resources/codesystem-additional-resources.json input/includes/additional-resources-table.liquid %}
+
+</div>

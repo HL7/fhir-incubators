@@ -1,0 +1,6 @@
+<p>Additional Resources defined in this IGs:</p>
+<table class="codes">
+<tr><td style="white-space:nowrap"><b>Code</b></td><td><b>Definition</b></td></tr>
+{% for c in concept %}<tr><td style="white-space:nowrap"><a href="{{c.property.where(code = 'url').valueString}}">{{c.code}}</a><a name="additional-resources-{{c.code}}"> </a></td>
+<td>{{c.definition}}</td></tr>
+{% endfor %}</table>
