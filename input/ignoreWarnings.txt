@@ -1,1 +1,15 @@
 == Suppressed Messages ==
+
+# There isn't yet an R6 package we can use
+ERROR: ImplementationGuide/hl7.fhir.uv.incubators: ImplementationGuide.dependsOn[1]: The ImplementationGuide is based on FHIR version 6.0.0-snapshot1 but package hl7.terminology#7.5.0 is based on FHIR version 5.0.0. Use the package hl7.terminology.r6 instead
+
+# This is an issue with the core specification
+INFORMATION: ImplementationGuide/hl7.fhir.uv.incubators: ImplementationGuide.license: Reference to draft CodeSystem http://hl7.org/fhir/spdx-license|84728b7 from active ValueSet http://hl7.org/fhir/ValueSet/spdx-license|6.0.0-snapshot1
+
+# This code system is for internal HL7 use and is intended to be maintained in this IG as the authoritative source of truth
+INFORMATION: CodeSystem/additional-resources: CodeSystem: Most code systems defined in HL7 IGs will need to move to THO later during the process. Consider giving this code system a THO URL now (See https://confluence.hl7.org/display/TSMG/Terminology+Play+Book, and/or talk to TSMG)
+
+# There's no need for these to have meaning to tx servers
+INFORMATION: CodeSystem/additional-resources: CodeSystem.property[0]: This property has only a code ('canonical') and not a URI, so it has no clearly defined meaning in the terminology ecosystem
+INFORMATION: CodeSystem/additional-resources: CodeSystem.property[1]: This property has only a code ('url') and not a URI, so it has no clearly defined meaning in the terminology ecosystem
+

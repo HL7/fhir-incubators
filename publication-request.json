@@ -1,0 +1,15 @@
+{
+  "package-id" : "hl7.fhir.uv.incubators",
+  "version" : "1.0.0-snapshot",
+	"path" : "http://hl7.org/fhir/uv/incubators/1.0.0-snapshot",
+  "status" : "informative",
+  "mode" : "working",
+  "sequence" : "Informative 1",
+  "desc" : "First Informative Release",
+  "descmd" : "First Informative Release.",
+  "first" : true,
+  "title" : "FHIR Incubators",
+  "ci-build" : "http://build.fhir.org/ig/HL7/fhir-incubators",
+  "category" : "Infrastructure",
+  "introduction" : "An authoritative list of all FHIR incubator projects and 'Additional resources'"
+}
