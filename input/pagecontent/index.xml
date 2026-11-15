@@ -95,7 +95,7 @@
    <tr>
      <td>Immunization Incubator</td>
      <td>hl7.fhir.uv.immunization-incubator</td>
-     <td><a href="http://www.hl7.org/Special/committees/pher/index.cfm">Public Health and Emergency Response</a></td>
+     <td><a href="http://www.hl7.org/Special/committees/pher/index.cfm">Public Health</a></td>
      <td><a href="http://hl7.org/fhir/uv/">Publications</a>
                    / <a href="https://build.fhir.org/ig/HL7/immunization-incubator">CI-Build</a>
                    / <a href="https://github.com/HL7/immunization-incubator">GitHub</a></td>
