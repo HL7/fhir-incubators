@@ -217,7 +217,7 @@
     "definition" : "Details of a Health Insurance plan provided by an organization under an InsuranceProduct.",
     "property" : [{
       "code" : "url",
-      "valueString" : "https://build.fhir.org/ig/HL7/admin-incubator/en/StructureDefinition-InsurancePlan.html"
+      "valueString" : "https://build.fhir.org/ig/HL7/fm-incubator/en/StructureDefinition-InsurancePlan.html"
     },{
       "code" : "canonical",
       "valueString" : "http://hl7.org/fhir/StructureDefinition/InsurancePlan"
@@ -228,7 +228,7 @@
     "definition" : "Details of a Health Insurance product provided by an organization.",
     "property" : [{
       "code" : "url",
-      "valueString" : "https://build.fhir.org/ig/HL7/admin-incubator/en/StructureDefinition-InsuranceProduct.html"
+      "valueString" : "https://build.fhir.org/ig/HL7/fm-incubator/en/StructureDefinition-InsuranceProduct.html"
     },{
       "code" : "canonical",
       "valueString" : "http://hl7.org/fhir/StructureDefinition/InsuranceProduct"
