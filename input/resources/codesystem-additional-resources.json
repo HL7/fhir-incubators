@@ -289,6 +289,17 @@
       "valueString" : "http://hl7.org/fhir/StructureDefinition/MolecularDefinition"
     }]
   },{
+    "code" : "Permission",
+    "display" : "Permission",
+    "definition" : "Permission resource holds access rules for a given data and access request context.",
+    "property" : [{
+      "code" : "url",
+      "valueString" : "https://build.fhir.org/ig/HL7/data-access-policies/en/StructureDefinition-Permission.html"
+    },{
+      "code" : "canonical",
+      "valueString" : "http://hl7.org/fhir/StructureDefinition/Permission"
+    }]
+  },{
     "code" : "PersonalRelationship",
     "display" : "PersonalRelationship",
     "definition" : "Details about the relationship between 2 individuals.",
