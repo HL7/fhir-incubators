@@ -313,7 +313,7 @@
   },{
     "code" : "StructureMap",
     "display" : "StructureMap",
-    "definition" : "The PublicationRecord Resource enables reference to any knowledge artifact for purposes of identification and attribution. The PublicationRecord Resource supports existing reference structures and developing publication practices such as versioning, expressing complex contributorship roles, and referencing computable resources.",
+    "definition" : "A Map of relationships between 2 structures that can be used to transform data.",
     "property" : [{
       "code" : "url",
       "valueString" : "https://build.fhir.org/ig/HL7/mapping-language-ig/StructureDefinition-StructureMap.html"
